@@ -106,6 +106,7 @@ A simple automation project that organizes files into folders based on their fil
 Alongside my analytics portfolio, I've completed several independent blockchain analytics projects using Dune Analytics. These projects involve writing SQL queries to analyze on-chain activity across Ethereum, Base, Solana, and Ink, with dashboards covering transaction activity, wallet behavior, protocol usage, and smart contract interactions.
 
 **[You can view my Dune profile here](https://dune.com/louis_analytics)**
+
 ---
 
 ## Currently Developing
