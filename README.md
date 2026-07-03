@@ -1,6 +1,6 @@
 # Data Analytics Portfolio — Chidebe Chukwuemeka Louis
 
-📧 louischidebe@gmail.com | [LinkedIn](https://www.linkedin.com/in/chukwuemeka-chidebe-85aaa1235/) | [GitHub](https://github.com/louischidebe)
+louischidebe@gmail.com | [LinkedIn](https://www.linkedin.com/in/chukwuemeka-chidebe-85aaa1235/) | [GitHub](https://github.com/louischidebe)
 
 ---
 
@@ -16,7 +16,7 @@ I've worked with SQL, Excel, Power BI, Tableau, and Python, and I also have expe
 
 ## Projects
 
-### 🛒 Retail Sales Analysis Dashboard (Excel)
+### Retail Sales Analysis Dashboard (Excel)
 **[View Repository](https://github.com/louischidebe/VistaRetail-Myanmar-Sales-Analysis)**
 
 An interactive two-part Excel dashboard built to analyze Q1 2019 sales data for a fictional retail company, VistaRetail Myanmar.
@@ -30,7 +30,7 @@ An interactive two-part Excel dashboard built to analyze Q1 2019 sales data for 
 
 ---
 
-### 🌍 Global Layoffs Analysis (MySQL)
+### Global Layoffs Analysis (MySQL)
 **[View Repository](https://github.com/louischidebe/global-layoffs-analysis-sql)**
 
 An end-to-end SQL project exploring global tech layoffs between 2020 and 2026.
@@ -48,7 +48,7 @@ An end-to-end SQL project exploring global tech layoffs between 2020 and 2026.
 
 ---
 
-### 🏥 Hospital ER Performance Analysis (Power BI)
+### Hospital ER Performance Analysis (Power BI)
 **[View Repository](https://github.com/louischidebe/hospital-er-performance-analysis)**
 
 An interactive Power BI dashboard built from 19 months of emergency room data covering more than 9,000 patient records.
@@ -67,7 +67,7 @@ An interactive Power BI dashboard built from 19 months of emergency room data co
 
 ---
 
-### 📈 Sales Performance Analysis (Tableau & Excel)
+### Sales Performance Analysis (Tableau & Excel)
 **[View LinkedIn Overview](https://www.linkedin.com/posts/chukwuemeka-chidebe-85aaa1235_businessintelligence-dataanalytics-sql-ugcPost-7461896067119308800-x3Yy/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq3PYYBwra28MF8Zmio77g-9Qibmjn3B4c)**
 
 A business intelligence project completed as part of the IBM Business Intelligence Analyst Capstone.
@@ -81,7 +81,7 @@ A business intelligence project completed as part of the IBM Business Intelligen
 
 ---
 
-### 🐍 Python File Automation Sorter
+### Python File Automation Sorter
 **[View Repository](https://github.com/louischidebe/Python-file-sorter)**
 
 A simple automation project that organizes files into folders based on their file extensions.
