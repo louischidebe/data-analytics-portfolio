@@ -97,7 +97,7 @@ A simple automation project that organizes files into folders based on their fil
 ## Certifications
 
 - **[IBM Business Intelligence Analyst Professional Certificate](https://coursera.org/share/4b9556fc8eb76f5ab511048c8f356817)** (2026)
-- **Deloitte Data Analytics Job Simulation** — Forage (2026)
+- **[Deloitte Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_699f74629177f2118842bcd2_1772996615083_completion_certificate.pdf?raw=1)** — Forage (2026)
 
 ---
 
