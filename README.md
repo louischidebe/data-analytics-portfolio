@@ -123,5 +123,5 @@ Alongside my analytics portfolio, I've completed several independent blockchain 
 
 ## Currently Developing
 
-- Python for Data Analysis (NumPy & pandas)
-- Advanced SQL optimization
+- **Python for Data Analysis & Machine Learning** (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+- **Advanced SQL** (Query optimization, complex queries, and analytical techniques)
