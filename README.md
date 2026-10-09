@@ -81,16 +81,28 @@ A business intelligence project completed as part of the IBM Business Intelligen
 
 ---
 
-### Python File Automation Sorter
-**[View Repository](https://github.com/louischidebe/Python-file-sorter)**
+### Bank Term-Deposit Subscription Prediction (Python & Machine Learning)
 
-A simple automation project that organizes files into folders based on their file extensions.
+[View Repository](https://github.com/louischidebe/bank-term-deposit-prediction)
+
+A machine learning project using historical bank marketing data to predict whether a client would subscribe to a term deposit following a direct marketing campaign.
 
 **Highlights**
-- Built with Python using the `os` and `shutil` libraries.
-- Demonstrates file handling, directory traversal, and basic automation concepts.
 
-**Tools:** Python, Jupyter Notebook
+- Cleaned and explored a dataset of over 41,000 records using pandas, including removing duplicate records and examining class imbalance.
+- Performed exploratory data analysis to investigate subscription patterns across customer demographics, campaign activity, and economic indicators.
+- Compared Decision Tree, Random Forest, and XGBoost classification models.
+- Tuned the final XGBoost model and excluded call duration to avoid target leakage, since the duration is only known after a call.
+- Evaluated model performance using PR-AUC, ROC-AUC, and customer-ranking analysis.
+
+**Key Findings**
+
+- The final model achieved a PR-AUC of 0.485 and a ROC-AUC of 0.812.
+- Ranking customers by predicted subscription probability, the top 20% of the test set contained approximately 67% of actual subscribers.
+- Previous campaign success and economic indicators were among the important factors associated with subscription predictions.
+- Subscription patterns varied across age groups, contact methods, and campaign months.
+
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost
 
 ---
 
